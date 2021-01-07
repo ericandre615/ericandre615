@@ -14,6 +14,6 @@ View my online resume in different formats
 - [Basic](https://ericandre615.github.io/resume/build/standard)
 - [README.md](https://github.com/ericandre615/resume/blob/master/README.md)
 
-
+- I started a new [Ok(Blog)](https://blog.ericandre.info/tutorials) focusing on tutorials for using Rust + Yew on the web
 - Profile Site: [ericandre.info](https://ericandre.info)
 - Pixel Drawing App: [PixelBox](http://pixelbox.graphics/)
